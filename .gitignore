@@ -114,3 +114,5 @@ ENV/
 
 # VS Code workspace
 *.code-workspace
+
+python-materials/
